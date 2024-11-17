@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('wpbunga.jpg');
+  background-size: cover; /* Mengatur agar gambar latar belakang menutupi seluruh area */
+  background-position: center; /* Memusatkan gambar latar belakang */
+}
